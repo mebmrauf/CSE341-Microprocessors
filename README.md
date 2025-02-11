@@ -14,9 +14,9 @@ g. Understand assembly language, develop assembly language programs and learn ho
 
 ## LHK
 
-**L1** https://youtu.be/LMPynGQFL6E?si=UlKS32znopw2Ly73
+**Only L1 :** https://youtu.be/LMPynGQFL6E?si=UlKS32znopw2Ly73
 
-**L3 to end** https://youtube.com/playlist?list=PL2ETCwNgERAIJ7wC9rZrr0ZIppg8K8u_T&si=9k_SsPRuyviN5XXC
+**L3 to - :** https://youtube.com/playlist?list=PL2ETCwNgERAIJ7wC9rZrr0ZIppg8K8u_T&si=9k_SsPRuyviN5XXC
 
 ## Others
 https://youtube.com/playlist?list=PLCh3_NUqW7_JKPROcvmNlr1t0QWmflRIy&si=_9kk-q3jpf_EFfwQ
