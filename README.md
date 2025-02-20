@@ -13,10 +13,10 @@ g. Understand assembly language, develop assembly language programs and learn ho
 # Playlist
 
 ## LHK
+https://youtube.com/playlist?list=PL2ETCwNgERAIJ7wC9rZrr0ZIppg8K8u_T&si=9k_SsPRuyviN5XXC
 
-**Only L1 :** https://youtu.be/LMPynGQFL6E?si=UlKS32znopw2Ly73
-
-**L3 to - :** https://youtube.com/playlist?list=PL2ETCwNgERAIJ7wC9rZrr0ZIppg8K8u_T&si=9k_SsPRuyviN5XXC
+## HBN - lab
+https://youtube.com/playlist?list=PLh1_aZhLeIxuxO6rtPWBpeZlnOq1bDo9Q&si=cIFuRzyf3glRrnBR
 
 ## Others
 https://youtube.com/playlist?list=PLCh3_NUqW7_JKPROcvmNlr1t0QWmflRIy&si=_9kk-q3jpf_EFfwQ
