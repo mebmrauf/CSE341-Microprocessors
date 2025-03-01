@@ -55,7 +55,7 @@ ADD AX, BX ; AX = 5 + 6 = 11
 SUB BX, AX ; BX = 6 - 11 = -5
 NEG BX ; BX = -(-5) = 5
 
-SUB AX, BX ; AX = 11 - 5 = 5
+SUB AX, BX ; AX = 11 - 5 = 6
 ```
 
 ## Task06
