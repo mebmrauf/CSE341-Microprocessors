@@ -1,13 +1,14 @@
 # CSE341 : LAB Evaluation 01
+## SET - A
 
-## Question 1 
+### Question 1 
 An employee receives a monthly salary S. At the end of the year, they receive a bonus B% of their total yearly salary. Compute the total earnings in one year including the bonus. You have to declare S and B as variables and store the earnings in another variable Total(integer). 
 
 Here, S = first 4 digit of your id & B = last digit of your id.
 
 Example: If your id is 10002347, S = 1000 tk and B = 7%, total earning in one year = 12840.
 
-## Question 2 
+### Question 2 
 Perform the following operation : 
 ```
 Total = div/x
