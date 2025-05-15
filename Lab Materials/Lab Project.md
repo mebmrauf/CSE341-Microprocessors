@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![1.png](Screenshot/1.png)
-![2.png](Screenshot/2.png)
-![3.png](Screenshot/3.png)
-![4.png](Screenshot/4.png)
+![1.png](https://github.com/mebmrauf/Local-Event-Booking-System/blob/main/Screenshot/1.png)
+![2.png](https://github.com/mebmrauf/Local-Event-Booking-System/blob/main/Screenshot/2.png)
+![3.png](https://github.com/mebmrauf/Local-Event-Booking-System/blob/main/Screenshot/3.png)
+![4.png](https://github.com/mebmrauf/Local-Event-Booking-System/blob/main/Screenshot/4.png)
