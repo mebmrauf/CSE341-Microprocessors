@@ -11,28 +11,34 @@ b. Adds only the even numbers to calculate the checksum
 c. Stores the final sum in register DX. Once the checksum is computed, it is sent to the vault controller.
 
 | Initiated Registers | Standard Input | Standard Output | Console Display | Resulted Registers |
-| :---- | :---- | :---- | :---- | :---- |
-| MOV AX, 2 MOV BX, 25 |  |  |  | DX \= 156 |
-| MOV AX, 120 MOV BX, 400 |  |  |  | DX \= 36600 |
+| --- | --- | --- | --- | --- |
+| MOV AX, 2
+MOV BX, 25 |  |  |  | DX = 156 |
+| MOV AX, 120
+MOV BX, 400 |  |  |  | DX = 36600 |
 
 ## Question 02
 
 You are a designer working on a tiled courtyard for a palace. Each tile is a perfect square, and inside each square tile, you carve out a perfect circle so that it touches all four sides of the square - meaning the circle is inscribed. You want to coat only the area outside the circle but inside the square with gold paint, leaving the circle area untouched. To calculate how much paint you need, you must compute the difference between the area of the square and the area of the circle. The side of the square, the radius of the circle needs to be taken as input from the user. You must calculate: **Paint Area=Area of Square-Area of Circle = s² - πr²**, where **s** is the side of the square and **r** is the radius of the circle. [Both of the inputs are single digit and you can consider **π = 3**]. You need to print the final result [difference between the areas].
 
 | Initiated Registers | Standard Input | Standard Output | Console Display | Resulted Registers | Explanations |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-|  | 95 | 6 | 95 6 |  | s \= 9, r \= 5 92 \- 3 \* 52 \= 81 \- 75 \= 6 |
-|  | 84 | 16 | 84 16 |  | s \= 8, r \= 4 82 \- 3 \* 42 \= 64 \- 48 \= 16 |
+| --- | --- | --- | --- | --- | --- |
+|  | 95 | 6 | 95
+6 |  | s = 9, r = 5
+9<sup>2</sup> - 3 * 5<sup>2</sup>      = 81 - 75 = 6 |
+|  | 84 | 16 | 84
+16 |  | s = 8, r = 4
+8<sup>2</sup> - 3 * 4<sup>2</sup> = 64 - 48 = 16 |
 
 ## Question 03
 
 Mr. Karim recently moved into a new apartment in Dhaka, and at the end of the month, he received his first electricity bill. The billing system of the local power company works as follows:
 
 | Units | Charge/Unit |
-| :---- | :---- |
-| 0 \-199 | Tk. 1 |
-| 200 \- 399 | Tk. 2 |
-| 400 \- 599 | Tk. 3 |
+| --- | --- |
+| 0 -199 | Tk. 1 |
+| 200 - 399 | Tk. 2 |
+| 400 - 599 | Tk. 3 |
 | 600 and above | Tk. 4 |
 
 **If the bill exceeds Tk. 500, a surcharge of 20% will be added and the minimum bill should be Tk. 120.**
@@ -40,9 +46,17 @@ Mr. Karim recently moved into a new apartment in Dhaka, and at the end of the mo
 You have to take **one variable** as **user input** - the number of units consumed. Calculate the bill to be paid by the customer and display it.
 
 | Sample Case 1 | Sample Case 2 |
-| :---- | :---- |
-| **Test Data :** Units Consumed : 50 | **Test Data :** Units Consumed: 650 |
-| **Expected Output :** Amount charged at Tk. 50 \* 1 \= 50 Minimum bill has to be paid Payable bill: Tk. 120 | **Expected Output :** Amount charged at Tk. 650 \* 4 \= 2600 Surcharge(20%) \= Tk. 520 Payable bill: 2600 \+ 520 \= 3120 Tk. |
+| --- | --- |
+| **Test Data :**
+Units Consumed : 50 | **Test Data :**
+Units Consumed: 650 |
+| **Expected Output :**
+Amount charged at Tk. 50 * 1 = 50
+Minimum bill has to be paid
+Payable bill: Tk. 120 | **Expected Output :**
+Amount charged at Tk. 650 * 4 = 2600
+Surcharge(20%) = Tk. 520
+Payable bill: 2600 + 520 = 3120 Tk. |
 
 ## Question 04
 
@@ -61,6 +75,22 @@ As part of the system's testing, you've been asked to perform a special operatio
   - Display the **original scores**, the **swapped scores**, and the **total combined score**.
 
 | Sample Input | Sample Output | Explanation |
-| :---- | :---- | :---- |
-| id \= 20231234 | Match score (last 4 digits): 1234 Swapped score: 3412 Team A: 34 Team B: 12 Total Combined Score: 46 | Last 4 digits \= 1234 Swap positions of Team A and Team B: 3412 Team A \= 34 Team B \= 12 Total \= 34 \+ 12 \= 46 |
-| id \= 21134456 | Match score (last 4 digits): 4456 Swapped score: 5644 Team A: 56 Team B: 44 Total Combined Score: 100 | Last 4 digits \= 4456 Swap positions: 5644 Team A \= 56 Team B \= 44 Total \= 56 \+ 44 \= 100 |
+| --- | --- | --- |
+| id = 20231234 | Match score (last 4 digits): 1234
+Swapped score: 3412
+Team A: 34
+Team B: 12
+Total Combined Score: 46 | Last 4 digits = 1234
+Swap positions of Team A and Team B: 3412
+Team A = 34
+Team B = 12
+Total = 34 + 12 = 46 |
+| id = 21134456 | Match score (last 4 digits): 4456
+Swapped score: 5644
+Team A: 56
+Team B: 44
+Total Combined Score: 100 | Last 4 digits = 4456
+Swap positions: 5644
+Team A = 56
+Team B = 44
+Total = 56 + 44 = 100 |
