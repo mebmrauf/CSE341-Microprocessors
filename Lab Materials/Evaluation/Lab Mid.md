@@ -6,7 +6,8 @@ You are a systems engineer working for an intelligence agency, One of the agency
 
 a. Loops through the numbers between AX and BX (inclusive),
 
-b. Adds only the even numbers to calculate the checksum,
+b. Adds only the even numbers to calculate the checksum
+
 c. Stores the final sum in register DX. Once the checksum is computed, it is sent to the vault controller.
 
 | Initiated Registers | Standard Input | Standard Output | Console Display | Resulted Registers |
