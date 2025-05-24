@@ -12,8 +12,7 @@ c. Stores the final sum in register DX. Once the checksum is computed, it is sen
 
 | Initiated Registers | Standard Input | Standard Output | Console Display | Resulted Registers |
 | :---- | :---- | :---- | :---- | :---- |
-| MOV AX, 2
-MOV BX, 25 |  |  |  | DX \= 156 |
+| MOV AX, 2 MOV BX, 25 |  |  |  | DX \= 156 |
 | MOV AX, 120 MOV BX, 400 |  |  |  | DX \= 36600 |
 
 ## Question 02
