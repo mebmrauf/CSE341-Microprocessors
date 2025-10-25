@@ -11,12 +11,12 @@ Example: If your id is 10002347, S = 1000 tk and B = 7%, total earning in one ye
 ### Question 2 
 Perform the following operation : 
 ```
-Total = div/x
+Total = dividend/x
 X= (A+B*C-D)
 ```
-Take 5 variables as **div A, B, C, D** and store it in a variable **(Total)**. If **"x"** is any negative value, convert it to positive one and calculate **Total**.
+Take 5 variables as **divident, A, B, C, D** and store it in a variable **(Total)**. If **"x"** is any negative value, convert it to positive one and calculate **Total**.
 
-Here, A = first 2 digit, B = second 2 digit, C = third 2 digit, D = last 2 digit & div = first 4 digit.
+Here, A = first 2 digit, B = second 2 digit, C = third 2 digit, D = last 2 digit & dividend = first 4 digit.
 
 Example: If your id is 10002347, A = 10, B = 00, C = 23, D = 47, div = 1000,
 
