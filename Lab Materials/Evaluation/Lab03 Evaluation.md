@@ -34,7 +34,7 @@ A smart elevator system decides its movement based on a **single-digit floor num
 - If the input is **an odd number**, print "Moving Down".
 - If the input is **7**, print "Emergency Stop Activated" instead of following the usual even/odd rule.
 
-### Question 01
+### Question 02
 A parking ticket machine charges **$100** for a full-day parking pass. The machine takes an amount from the user and decides whether they can park or need to add more money.
 
 - If the inserted amount is **100 or more** print "Parking Ticket Issued".
