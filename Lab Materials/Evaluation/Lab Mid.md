@@ -39,11 +39,11 @@ You are a designer working on a tiled courtyard for a palace. Each tile is a per
 **Standard Input**
 
 ```
-95
+9, 5
 ```
 
 ```
-84
+8, 4
 ```
 
 **Standard Output**
@@ -59,12 +59,12 @@ You are a designer working on a tiled courtyard for a palace. Each tile is a per
 **Console Display**
 
 ```
-95
+9, 5
 6
 ```
 
 ```
-84
+8, 4
 16
 ```
 
